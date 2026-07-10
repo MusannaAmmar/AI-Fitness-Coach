@@ -1,0 +1,505 @@
+{
+  "weeklyPlan": [
+    {
+      "id": "wp_12345678",
+      "day": "Monday",
+      "title": "Cardio and Upper Back Focus",
+      "date": "2026-01-03T11:07:32.818377",
+      "durationMinutes": 45,
+      "level": "Intermediate",
+      "category": "cardio",
+      "notes": "Focus on maintaining a steady pace and proper form during cardio exercises.",
+      "exercises": [
+        {
+          "id": "XSCHmiI",
+          "bodyParts": "cardio",
+          "equipments": "leverage machine",
+          "instructions": "Step:1 Adjust the seat height and position yourself on the cycle cross trainer. Step:2 Place your feet on the pedals and grip the handlebars. Step:3 Start pedaling in a smooth and controlled motion. Step:4 Maintain a steady pace and increase the resistance if desired. Step:5 Continue pedaling for the desired duration of your cardio workout.",
+          "gifUrl": "https://static.exercisedb.dev/media/XSCHmiI.gif",
+          "name": "cycle cross trainer",
+          "summary": "This exercise targets the cardiovascular system and helps improve endurance.",
+          "secondaryMuscles": "quadriceps, hamstrings, glutes",
+          "targetMuscles": "cardiovascular system",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "3xK09Sk",
+          "bodyParts": "back",
+          "equipments": "body weight",
+          "instructions": "Step:1 Stand with your feet shoulder-width apart, holding onto a sturdy object or suspension trainer with your arms extended. Step:2 Lower your body into a squat position, keeping your back straight and your knees behind your toes. Step:3 From the squat position, pull your body up towards the object or suspension trainer, squeezing your shoulder blades together. Step:4 Pause for a moment at the top, then slowly lower your body back down to the starting position. Step:5 Repeat for the desired number of repetitions.",
+          "gifUrl": "https://static.exercisedb.dev/media/3xK09Sk.gif",
+          "name": "bodyweight squatting row",
+          "summary": "This exercise focuses on strengthening the upper back and improving posture.",
+          "secondaryMuscles": "biceps, shoulders",
+          "targetMuscles": "upper back",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "bZGHsAZ",
+          "bodyParts": "back",
+          "equipments": "body weight",
+          "instructions": "Step:1 Set up a bar at waist height or use a suspension trainer. Step:2 Stand facing the bar or suspension trainer, with your feet shoulder-width apart. Step:3 Grab the bar or handles with an overhand grip, slightly wider than shoulder-width apart. Step:4 Lean back, keeping your body straight and your heels on the ground. Step:5 Pull your chest towards the bar or handles, squeezing your shoulder blades together. Step:6 Pause for a moment at the top, then slowly lower yourself back to the starting position. Step:7 Repeat for the desired number of repetitions.",
+          "gifUrl": "https://static.exercisedb.dev/media/bZGHsAZ.gif",
+          "name": "inverted row",
+          "summary": "This exercise targets the upper back and helps build strength and endurance.",
+          "secondaryMuscles": "biceps, forearms",
+          "targetMuscles": "upper back",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wp_23456789",
+      "day": "Tuesday",
+      "title": "Cardio and Core Strength",
+      "date": "2026-01-03T11:07:32.818377",
+      "durationMinutes": 40,
+      "level": "Intermediate",
+      "category": "cardio",
+      "notes": "Focus on core engagement and breathing during cardio exercises.",
+      "exercises": [
+        {
+          "id": "pFuK3by",
+          "bodyParts": "cardio",
+          "equipments": "elliptical machine",
+          "instructions": "Step:1 Adjust the resistance level and incline of the elliptical machine to your desired settings. Step:2 Step onto the pedals of the machine and grip the handles lightly. Step:3 Begin by pushing down with your feet and pulling the handles towards your body. Step:4 Continue this motion, alternating between pushing and pulling, to simulate a walking or running motion. Emphasize expanded control. Step:5 Maintain a steady pace and keep your core engaged throughout the exercise. Step:6 Continue for the desired duration of your cardio workout. Step:7 Gradually decrease the intensity and speed of the machine before stepping off.",
+          "gifUrl": "https://static.exercisedb.dev/media/pFuK3by.gif",
+          "name": "walk elliptical cross trainer - expanded variation",
+          "summary": "This exercise enhances cardiovascular endurance and engages the core.",
+          "secondaryMuscles": "quadriceps, hamstrings, glutes, calves",
+          "targetMuscles": "cardiovascular system",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "Qoujh3Q",
+          "bodyParts": "waist",
+          "equipments": "body weight",
+          "instructions": "Step:1 Find an open space or a track to perform the exercise. Step:2 Start by standing with your feet shoulder-width apart. Step:3 Begin running as fast as you can, pumping your arms and driving your knees up. Step:4 Continue sprinting for a specific distance or time period. Step:5 Rest and repeat for the desired number of repetitions.",
+          "gifUrl": "https://static.exercisedb.dev/media/Qoujh3Q.gif",
+          "name": "wind sprints",
+          "summary": "Wind sprints are excellent for building core strength and cardiovascular fitness.",
+          "secondaryMuscles": "quadriceps, hamstrings, calves",
+          "targetMuscles": "abs",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "y5p0H8a",
+          "bodyParts": "cardio",
+          "equipments": "body weight",
+          "instructions": "Step:1 Start by standing upright with your feet hip-width apart. Step:2 Engage your core and keep your upper body relaxed. Step:3 Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet. Step:4 Maintain a steady pace and continue jogging for the desired duration or distance. Step:5 Remember to breathe deeply and maintain good posture throughout the exercise.",
+          "gifUrl": "https://static.exercisedb.dev/media/y5p0H8a.gif",
+          "name": "run (equipment)",
+          "summary": "Running in place helps improve cardiovascular endurance and core stability.",
+          "secondaryMuscles": "quadriceps, hamstrings, calves",
+          "targetMuscles": "cardiovascular system",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wp_34567890",
+      "day": "Wednesday",
+      "title": "Upper Back and Arm Strength",
+      "date": "2026-01-03T11:07:32.818377",
+      "durationMinutes": 50,
+      "level": "Intermediate",
+      "category": "back",
+      "notes": "Focus on controlled movements and squeezing the shoulder blades together.",
+      "exercises": [
+        {
+          "id": "aaXr7ld",
+          "bodyParts": "back",
+          "equipments": "leverage machine",
+          "instructions": "Step:1 Adjust the seat height and footplate position to ensure proper alignment. Step:2 Sit on the machine with your chest against the pad and your feet flat on the footplate. Step:3 Grasp the handles with an overhand grip, slightly wider than shoulder-width apart. Step:4 Keep your back straight and engage your core. Step:5 Pull the handles towards your torso, squeezing your shoulder blades together. Step:6 Pause for a moment at the peak contraction, then slowly release the handles back to the starting position. Step:7 Repeat for the desired number of repetitions.",
+          "gifUrl": "https://static.exercisedb.dev/media/aaXr7ld.gif",
+          "name": "lever t bar row",
+          "summary": "This exercise targets the upper back and helps build strength and muscle mass.",
+          "secondaryMuscles": "biceps, forearms",
+          "targetMuscles": "upper back",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "20-40",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 30, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 30, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 30, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "vpQaQkH",
+          "bodyParts": "upper arms",
+          "equipments": "skierg machine",
+          "instructions": "Step:1 Adjust the seat height and footrests to a comfortable position. Step:2 Grasp the handles with an overhand grip, palms facing down. Step:3 Sit up straight with your feet flat on the footrests. Step:4 Extend your arms straight out in front of you, keeping your elbows slightly bent. Step:5 Engage your triceps and push the handles down towards your thighs. Step:6 Pause for a moment at the bottom, then slowly return to the starting position. Step:7 Repeat for the desired number of repetitions.",
+          "gifUrl": "https://static.exercisedb.dev/media/vpQaQkH.gif",
+          "name": "ski ergometer",
+          "summary": "This exercise focuses on strengthening the triceps and improving arm endurance.",
+          "secondaryMuscles": "shoulders, forearms",
+          "targetMuscles": "triceps",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "20-40",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 20, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 20, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 20, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "tig3PXb",
+          "bodyParts": "back",
+          "equipments": "body weight",
+          "instructions": "Step:1 Stand with your feet shoulder-width apart and knees slightly bent. Step:2 Bend forward at the waist, keeping your back straight and your core engaged. Step:3 Extend your arms straight in front of you, gripping the bar or handles with a close grip. Step:4 Pull the bar or handles towards your body, squeezing your shoulder blades together. Step:5 Pause for a moment at the top of the movement, then slowly release and return to the starting position. Step:6 Repeat for the desired number of repetitions.",
+          "gifUrl": "https://static.exercisedb.dev/media/tig3PXb.gif",
+          "name": "bodyweight standing close-grip row",
+          "summary": "This exercise targets the upper back and helps improve grip strength.",
+          "secondaryMuscles": "biceps, forearms",
+          "targetMuscles": "upper back",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wp_45678901",
+      "day": "Thursday",
+      "title": "Cardio and Full Body Conditioning",
+      "date": "2026-01-03T11:07:32.818377",
+      "durationMinutes": 40,
+      "level": "Intermediate",
+      "category": "cardio",
+      "notes": "Maintain a steady pace and focus on full body engagement.",
+      "exercises": [
+        {
+          "id": "PCUYOMs",
+          "bodyParts": "cardio",
+          "equipments": "elliptical machine",
+          "instructions": "Step:1 Adjust the resistance level and incline of the elliptical machine to your desired settings. Step:2 Step onto the pedals of the machine and grip the handles lightly. Step:3 Begin by pushing down with your feet and pulling the handles towards your body. Step:4 Continue this motion, alternating between pushing and pulling, to simulate a walking or running motion. Step:5 Maintain a steady pace and keep your core engaged throughout the exercise. Emphasize pulse control. Step:6 Continue for the desired duration of your cardio workout. Step:7 Gradually decrease the intensity and speed of the machine before stepping off.",
+          "gifUrl": "https://static.exercisedb.dev/media/PCUYOMs.gif",
+          "name": "pulse style walk elliptical cross trainer",
+          "summary": "This exercise enhances cardiovascular endurance and engages multiple muscle groups.",
+          "secondaryMuscles": "quadriceps, hamstrings, glutes, calves",
+          "targetMuscles": "cardiovascular system",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "XSCHmiI",
+          "bodyParts": "cardio",
+          "equipments": "leverage machine",
+          "instructions": "Step:1 Adjust the seat height and position yourself on the cycle cross trainer. Step:2 Place your feet on the pedals and grip the handlebars. Step:3 Start pedaling in a smooth and controlled motion. Step:4 Maintain a steady pace and increase the resistance if desired. Step:5 Continue pedaling for the desired duration of your cardio workout.",
+          "gifUrl": "https://static.exercisedb.dev/media/XSCHmiI.gif",
+          "name": "cycle cross trainer",
+          "summary": "This exercise targets the cardiovascular system and helps improve endurance.",
+          "secondaryMuscles": "quadriceps, hamstrings, glutes",
+          "targetMuscles": "cardiovascular system",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "y5p0H8a",
+          "bodyParts": "cardio",
+          "equipments": "body weight",
+          "instructions": "Step:1 Start by standing upright with your feet hip-width apart. Step:2 Engage your core and keep your upper body relaxed. Step:3 Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet. Step:4 Maintain a steady pace and continue jogging for the desired duration or distance. Step:5 Remember to breathe deeply and maintain good posture throughout the exercise.",
+          "gifUrl": "https://static.exercisedb.dev/media/y5p0H8a.gif",
+          "name": "run (equipment)",
+          "summary": "Running in place helps improve cardiovascular endurance and core stability.",
+          "secondaryMuscles": "quadriceps, hamstrings, calves",
+          "targetMuscles": "cardiovascular system",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wp_56789012",
+      "day": "Friday",
+      "title": "Upper Back and Arm Conditioning",
+      "date": "2026-01-03T11:07:32.818377",
+      "durationMinutes": 50,
+      "level": "Intermediate",
+      "category": "back",
+      "notes": "Focus on controlled movements and proper form to maximize muscle engagement.",
+      "exercises": [
+        {
+          "id": "aaXr7ld",
+          "bodyParts": "back",
+          "equipments": "leverage machine",
+          "instructions": "Step:1 Adjust the seat height and footplate position to ensure proper alignment. Step:2 Sit on the machine with your chest against the pad and your feet flat on the footplate. Step:3 Grasp the handles with an overhand grip, slightly wider than shoulder-width apart. Step:4 Keep your back straight and engage your core. Step:5 Pull the handles towards your torso, squeezing your shoulder blades together. Step:6 Pause for a moment at the peak contraction, then slowly release the handles back to the starting position. Step:7 Repeat for the desired number of repetitions.",
+          "gifUrl": "https://static.exercisedb.dev/media/aaXr7ld.gif",
+          "name": "lever t bar row",
+          "summary": "This exercise targets the upper back and helps build strength and muscle mass.",
+          "secondaryMuscles": "biceps, forearms",
+          "targetMuscles": "upper back",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "20-40",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 30, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 30, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 30, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "vpQaQkH",
+          "bodyParts": "upper arms",
+          "equipments": "skierg machine",
+          "instructions": "Step:1 Adjust the seat height and footrests to a comfortable position. Step:2 Grasp the handles with an overhand grip, palms facing down. Step:3 Sit up straight with your feet flat on the footrests. Step:4 Extend your arms straight out in front of you, keeping your elbows slightly bent. Step:5 Engage your triceps and push the handles down towards your thighs. Step:6 Pause for a moment at the bottom, then slowly return to the starting position. Step:7 Repeat for the desired number of repetitions.",
+          "gifUrl": "https://static.exercisedb.dev/media/vpQaQkH.gif",
+          "name": "ski ergometer",
+          "summary": "This exercise focuses on strengthening the triceps and improving arm endurance.",
+          "secondaryMuscles": "shoulders, forearms",
+          "targetMuscles": "triceps",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "20-40",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 20, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 20, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 20, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "bZGHsAZ",
+          "bodyParts": "back",
+          "equipments": "body weight",
+          "instructions": "Step:1 Set up a bar at waist height or use a suspension trainer. Step:2 Stand facing the bar or suspension trainer, with your feet shoulder-width apart. Step:3 Grab the bar or handles with an overhand grip, slightly wider than shoulder-width apart. Step:4 Lean back, keeping your body straight and your heels on the ground. Step:5 Pull your chest towards the bar or handles, squeezing your shoulder blades together. Step:6 Pause for a moment at the top, then slowly lower yourself back to the starting position. Step:7 Repeat for the desired number of repetitions.",
+          "gifUrl": "https://static.exercisedb.dev/media/bZGHsAZ.gif",
+          "name": "inverted row",
+          "summary": "This exercise targets the upper back and helps build strength and endurance.",
+          "secondaryMuscles": "biceps, forearms",
+          "targetMuscles": "upper back",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wp_67890123",
+      "day": "Saturday",
+      "title": "Cardio and Core Stability",
+      "date": "2026-01-03T11:07:32.818377",
+      "durationMinutes": 40,
+      "level": "Intermediate",
+      "category": "cardio",
+      "notes": "Focus on maintaining a steady pace and engaging the core throughout.",
+      "exercises": [
+        {
+          "id": "pFuK3by",
+          "bodyParts": "cardio",
+          "equipments": "elliptical machine",
+          "instructions": "Step:1 Adjust the resistance level and incline of the elliptical machine to your desired settings. Step:2 Step onto the pedals of the machine and grip the handles lightly. Step:3 Begin by pushing down with your feet and pulling the handles towards your body. Step:4 Continue this motion, alternating between pushing and pulling, to simulate a walking or running motion. Emphasize expanded control. Step:5 Maintain a steady pace and keep your core engaged throughout the exercise. Step:6 Continue for the desired duration of your cardio workout. Step:7 Gradually decrease the intensity and speed of the machine before stepping off.",
+          "gifUrl": "https://static.exercisedb.dev/media/pFuK3by.gif",
+          "name": "walk elliptical cross trainer - expanded variation",
+          "summary": "This exercise enhances cardiovascular endurance and engages the core.",
+          "secondaryMuscles": "quadriceps, hamstrings, glutes, calves",
+          "targetMuscles": "cardiovascular system",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "Qoujh3Q",
+          "bodyParts": "waist",
+          "equipments": "body weight",
+          "instructions": "Step:1 Find an open space or a track to perform the exercise. Step:2 Start by standing with your feet shoulder-width apart. Step:3 Begin running as fast as you can, pumping your arms and driving your knees up. Step:4 Continue sprinting for a specific distance or time period. Step:5 Rest and repeat for the desired number of repetitions.",
+          "gifUrl": "https://static.exercisedb.dev/media/Qoujh3Q.gif",
+          "name": "wind sprints",
+          "summary": "Wind sprints are excellent for building core strength and cardiovascular fitness.",
+          "secondaryMuscles": "quadriceps, hamstrings, calves",
+          "targetMuscles": "abs",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "y5p0H8a",
+          "bodyParts": "cardio",
+          "equipments": "body weight",
+          "instructions": "Step:1 Start by standing upright with your feet hip-width apart. Step:2 Engage your core and keep your upper body relaxed. Step:3 Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet. Step:4 Maintain a steady pace and continue jogging for the desired duration or distance. Step:5 Remember to breathe deeply and maintain good posture throughout the exercise.",
+          "gifUrl": "https://static.exercisedb.dev/media/y5p0H8a.gif",
+          "name": "run (equipment)",
+          "summary": "Running in place helps improve cardiovascular endurance and core stability.",
+          "secondaryMuscles": "quadriceps, hamstrings, calves",
+          "targetMuscles": "cardiovascular system",
+          "sets": 3,
+          "repsRange": "8-12",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 12, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 3, "reps": 12, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wp_78901234",
+      "day": "Sunday",
+      "title": "Light Recovery and Stretching",
+      "date": "2026-01-03T11:07:32.818377",
+      "durationMinutes": 30,
+      "level": "Beginner",
+      "category": "cardio",
+      "notes": "Focus on light movements and stretching to aid recovery.",
+      "exercises": [
+        {
+          "id": "XSCHmiI",
+          "bodyParts": "cardio",
+          "equipments": "leverage machine",
+          "instructions": "Step:1 Adjust the seat height and position yourself on the cycle cross trainer. Step:2 Place your feet on the pedals and grip the handlebars. Step:3 Start pedaling in a smooth and controlled motion. Step:4 Maintain a steady pace and increase the resistance if desired. Step:5 Continue pedaling for the desired duration of your cardio workout.",
+          "gifUrl": "https://static.exercisedb.dev/media/XSCHmiI.gif",
+          "name": "cycle cross trainer",
+          "summary": "This exercise provides a low-impact cardio workout to aid recovery.",
+          "secondaryMuscles": "quadriceps, hamstrings, glutes",
+          "targetMuscles": "cardiovascular system",
+          "sets": 2,
+          "repsRange": "12-15",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 15, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 15, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "y5p0H8a",
+          "bodyParts": "cardio",
+          "equipments": "body weight",
+          "instructions": "Step:1 Start by standing upright with your feet hip-width apart. Step:2 Engage your core and keep your upper body relaxed. Step:3 Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet. Step:4 Maintain a steady pace and continue jogging for the desired duration or distance. Step:5 Remember to breathe deeply and maintain good posture throughout the exercise.",
+          "gifUrl": "https://static.exercisedb.dev/media/y5p0H8a.gif",
+          "name": "run (equipment)",
+          "summary": "Light jogging in place helps maintain cardiovascular health and aids recovery.",
+          "secondaryMuscles": "quadriceps, hamstrings, calves",
+          "targetMuscles": "cardiovascular system",
+          "sets": 2,
+          "repsRange": "12-15",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 15, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 15, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        },
+        {
+          "id": "pFuK3by",
+          "bodyParts": "cardio",
+          "equipments": "elliptical machine",
+          "instructions": "Step:1 Adjust the resistance level and incline of the elliptical machine to your desired settings. Step:2 Step onto the pedals of the machine and grip the handles lightly. Step:3 Begin by pushing down with your feet and pulling the handles towards your body. Step:4 Continue this motion, alternating between pushing and pulling, to simulate a walking or running motion. Emphasize expanded control. Step:5 Maintain a steady pace and keep your core engaged throughout the exercise. Step:6 Continue for the desired duration of your cardio workout. Step:7 Gradually decrease the intensity and speed of the machine before stepping off.",
+          "gifUrl": "https://static.exercisedb.dev/media/pFuK3by.gif",
+          "name": "walk elliptical cross trainer - expanded variation",
+          "summary": "This exercise provides a gentle cardio workout to support recovery and flexibility.",
+          "secondaryMuscles": "quadriceps, hamstrings, glutes, calves",
+          "targetMuscles": "cardiovascular system",
+          "sets": 2,
+          "repsRange": "12-15",
+          "weightRange": "0",
+          "type": "Standard",
+          "setsList": [
+            {"setType": "Standard", "setNumber": 1, "reps": 15, "weight": 0, "unit": "lbs", "completed": false},
+            {"setType": "Standard", "setNumber": 2, "reps": 15, "weight": 0, "unit": "lbs", "completed": false}
+          ]
+        }
+      ]
+    }
+  ]
+}

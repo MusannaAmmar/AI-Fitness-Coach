@@ -1,0 +1,15 @@
+pinecone
+langchain
+langchain-community
+langgraph
+langchain-openai
+pydantic
+fastapi
+uvicorn
+python-dotenv
+openai
+numpy
+pymongo
+python-multipart
+langgraph-checkpoint-mongodb
+
